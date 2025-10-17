@@ -42,7 +42,6 @@ module apb_slave_error
   
   wire  addr_err , addv_err, data_err, setup_apb_err;
 
-  ///// reset decoder
   always@(posedge pclk, negedge presetn)
     begin
       if(presetn == 1'b0)
