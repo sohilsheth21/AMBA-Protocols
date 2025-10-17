@@ -35,7 +35,7 @@ apb_slave s1 (
         .pwdata(pwdata),
         .pwrite(pwrite),
         .prdata(prdata),
-        .pready(pready),
+        .pready(pready)
     );
     
     
