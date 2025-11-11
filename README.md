@@ -15,7 +15,7 @@ This repository aims to provide Verilog models for these protocols, starting wit
 |-----------|----------------|------------------|---------|
 | **APB** | Master + Slave + Testbench | Basic handshake, Wait states, Error signaling | ✅ Complete |
 | **AHB** | — | Planned | ⏳ Upcoming |
-| **AXI** | — | Planned | ⏳ Upcoming |
+| **AXI** | — | Basic Handshkae protocol for AXI Stream | ⏳ Stream IPs, AXI Lite, AXI Full |
 
 ---
 
